@@ -16,8 +16,3 @@ https://peterporzuczek.github.io/content-app-frontend/
 <div>
 	<img src="https://i.imgur.com/OPLatMN.gif" alt="app-preview" width="70%">
 </div>
-
-To run application 
-----
-	$ npm install
-	$ npm dev run
